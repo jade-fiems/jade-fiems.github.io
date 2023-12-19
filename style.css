@@ -96,8 +96,9 @@ nav a{
 .grid2{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
     /* justify-items: start; */
-    gap: 16px;
+    gap: 100px;
 }
 
 .flèche{
